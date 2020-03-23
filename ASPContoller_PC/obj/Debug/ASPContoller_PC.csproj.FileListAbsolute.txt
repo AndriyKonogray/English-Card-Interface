@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\bin\Debug\ASPContoller_PC.exe.config
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\bin\Debug\ASPContoller_PC.exe
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\bin\Debug\ASPContoller_PC.pdb
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.Form1.resources
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.Properties.Resources.resources
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.csproj.CopyComplete
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.exe
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.pdb
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.Form2.resources
+C:\Users\Admin\source\repos\ASPContoller_PC\ASPContoller_PC\obj\Debug\ASPContoller_PC.Form3.resources
